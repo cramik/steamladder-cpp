@@ -11,6 +11,12 @@ https://curl.haxx.se/libcurl/
 
 
 
+
+
+
+
+
+
 Licenses of libraries used:
 
 https://github.com/nlohmann/json#license
