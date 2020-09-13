@@ -49,7 +49,7 @@ int main() {
 	url_string.append(base_url).append(steamid64).append("/");
 	// cout << url_string;
 	
-	// Another String to Character Array from GeeksForGeeks because I couldn't figure out how to create a function with character arrays (I had to add +1 for null terminator thing)
+	// Same string to character array (I had to add +1 for null terminator thing)
 	
 	char url_char[url_string.length()]; 
 	
